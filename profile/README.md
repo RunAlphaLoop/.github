@@ -6,7 +6,7 @@ AlphaLoops helps you understand which carriers to target, what technology they r
 
 If you're building freight, insurance, fintech, compliance, or sales tooling for transportation, AlphaLoops gives you direct programmatic access to carrier profiles, fleet data, inspections, crash history, authority records, news, and contact intelligence.
 
-https://runalphaloop.com/
+https://runalphaloops.com/
 
 ## What AlphaLoops Is
 
